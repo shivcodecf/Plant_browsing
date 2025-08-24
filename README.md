@@ -8,7 +8,7 @@ Here, you can browse, search, filter, and even add new plants like a pro. Let’
 
 🌟 Live Demo
 
-Experience it online: [Your Deployed Link](https://plant-browsing-g4ba.vercel.app/)
+Experience it online: [Deployed Link](https://plant-browsing-g4ba.vercel.app/)
 
 
 🎬 Walkthrough – Explore the App
@@ -141,9 +141,9 @@ Fully responsive UI
 
 Shivam Yadav – Software Development Intern
 
-GitHub: [Your GitHub Link](https://github.com/shivcodecf)
+GitHub: [ GitHub Link](https://github.com/shivcodecf)
 
-Deployed App: [Your Deployed Link](https://plant-browsing-g4ba.vercel.app/)
+Deployed App: [ Deployed Link](https://plant-browsing-g4ba.vercel.app/)
 
 
 
