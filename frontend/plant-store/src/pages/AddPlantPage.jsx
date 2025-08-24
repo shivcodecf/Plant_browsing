@@ -9,7 +9,7 @@ export default function AddPlantPage() {
 
   const [loading, setLoading] = useState(false);
   const [msg, setMsg] = useState("");
-  const [msgType, setMsgType] = useState(""); 
+  const [msgType, setMsgType] = useState("")
 
   const onSubmit = async (e) => {
     e.preventDefault();
