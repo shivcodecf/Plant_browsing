@@ -4,6 +4,8 @@ Welcome to the Mini Plant Store! 🪴
 This is a small but fully functional plant catalog app built for the Urvann Software Development Internship.
 Here, you can browse, search, filter, and even add new plants like a pro. Let’s take a quick tour! 🚀
 
+---
+
 🌟 Live Demo
 
 Experience it online: Your Deployed Link
@@ -60,6 +62,8 @@ Form validates your inputs so no incorrect data slips in.
 
 Tip: Add a few sample plants to see your new entries appear instantly in the catalog!
 
+---
+
 
 
 4️⃣ Loading & Error Feedback
@@ -72,12 +76,19 @@ This makes the experience smooth and interactive.
 
 ------
 
+
+
 🛠 Tech Stack
 Layer	Technology
 Frontend	ReactJS, Tailwind CSS
 Backend	Node.js, Express
 Database	MongoDB
 Deployment	Vercel / Render
+
+---
+
+
+
 
 
 ⚡ Try It Locally – Quick Start
@@ -86,23 +97,53 @@ Clone the repo
 
 
 
-git clone <your-repo-link>
-cd <repo-folder>
-
 
 
 Backend Setup
+
+```bash
 
 cd backend
 npm install
 npm run dev
 
+```
+
+
+
 
 Frontend Setup
 
+
+```bash
+
 cd frontend
+cd plant-store
 npm install
 npm run dev
+
+```
+
+✨ Extra Features
+
+Real-time filters and search
+
+Reusable React components for scalability
+
+Smooth UX with loading and error states
+
+Fully responsive UI
+
+---
+
+
+👤 Author
+
+Shivam Yadav – Software Development Intern
+
+GitHub: Your GitHub Link
+
+Deployed App: Your Deployed Link
 
 
 
